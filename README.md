@@ -1,5 +1,5 @@
 <h3 align="center"> Olá, sou Jefferson Ximenes! 🎮</h3>
-<h5 align="center"> Desenvolvedor Jr - apaixonada por código. <br/> 
+<h5 align="center"> Desenvolvedor Jr - apaixonado por código. <br/> 
  Adoro resolver problemas, gosto de sempre está aprendendo algo novo. Em horas vagas aprecio uma boa leitura e um game!</h5> 
 
 <p align="center">
