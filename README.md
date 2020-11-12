@@ -10,7 +10,7 @@
  <p align="justify"> :rocket:  &nbsp; Atualmente sou Desenvolvedor Jr - RD
  <br/> :purple_heart: &nbsp; Buscando sempre aprender algo novo
  <br/> :computer: &nbsp; Linguagens que conheço: Java, Python, JavaScript e TypeScript
- <br/> 👨‍💻 &nbsp; Já desenvolvi projetos em: Spring Boot, Maven, Angular, Flask (Python) e Kotlin 
+ <br/> 👨‍💻 &nbsp; Já desenvolvi projeto em: Spring Boot, Maven, Angular, Flask (Python) e Kotlin 
  <br/> 💬 &nbsp;Sobre mim: Além de tecnologia, amo livros, séries e filmes! Quando não estou estudando, estou jogando um game: Warzone ou algum outro joguinho! Só me chamar :) </p>
  
 
