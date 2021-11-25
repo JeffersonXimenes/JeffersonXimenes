@@ -1,5 +1,5 @@
 <h3 align="center"> Olá, sou Jefferson Ximenes! 🎮</h3>
-<h5 align="center"> Desenvolvedor Jr - apaixonado por código. <br/> 
+<h5 align="center"> Desenvolvedor JAVA - apaixonado por código. <br/> 
  Adoro resolver problemas, gosto de sempre está aprendendo algo novo. Em horas vagas aprecio uma boa leitura e um game!</h5> 
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 
- <p align="justify"> :rocket:  &nbsp; Atualmente sou Desenvolvedor Jr - RD
+ <p align="justify"> :rocket:  &nbsp; Atualmente sou Desenvolvedor JAVA - Magna Sistemas
  <br/> :purple_heart: &nbsp; Buscando sempre aprender algo novo
  <br/> :computer: &nbsp; Linguagens que conheço: Java, Python, JavaScript e TypeScript
  <br/> 👨‍💻 &nbsp; Já desenvolvi projeto em: Spring Boot, Maven, Angular, Flask (Python) e Kotlin 
